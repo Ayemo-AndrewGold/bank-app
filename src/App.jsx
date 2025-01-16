@@ -17,7 +17,7 @@ const App = () => {
         <Title subTitle='Gallery' title='Bank Photo' />
         <Banks />
         <Title subTitle='Testimonial' title='What Client says' />
-        <Testimonials />
+        {/* <Testimonials /> */}
         {/* <Title subTitle='Contact Us' title='Get intouch' />
         <Contact /> */}
       </div>
